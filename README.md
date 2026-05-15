@@ -27,6 +27,3 @@ This project demonstrates an automated **ETL (Extract, Transform, Load)** pipeli
 
 ## 📊 Business Impact
 By automating these manual tasks, this script saves approximately 2–3 hours of manual data entry work per reporting cycle, ensuring 100% data integrity for downstream Power BI dashboards or SQL databases.
-
----
-*Developed by Kausombi Choudhury as part of a Data Analyst portfolio transition.*
